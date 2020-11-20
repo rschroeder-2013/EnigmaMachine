@@ -1,0 +1,167 @@
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver2\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver3\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver4\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\2020SP\.NET I\Final\ver5\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+H:\2020SP\.NET I\Final\ver6\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\2020SP\.NET I\Final\ver7\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\4_2020SP\.NET I\Final\ver8\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.exe
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.dll
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.dll
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataTransferObjects.pdb
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\LogicLayer.pdb
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\Kirkwood\4_2020SP\.NET I\Final\Final Version\EnigmaMachine\PresentationLayer\obj\Debug\PresentationLayer.pdb
